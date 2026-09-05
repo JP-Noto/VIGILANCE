@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "Cite this corpus via this file. French documents are authoritative."
+title: "VIGILANCE"
+abstract: "The human concentrated where they have value, the system vigilant everywhere. A method corpus for the economy of human attention in AI-assisted work: explicit versioned rules of normal, total verification by the system, human judgment on exceptions only, with published health measures and a pre-registered invalidation criterion."
+authors:
+  - family-names: "Noto"
+    given-names: "JP"
+type: dataset
+version: 0.1
+date-released: "2026-09-05"
+license: CC-BY-NC-SA-4.0
