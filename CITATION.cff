@@ -6,6 +6,6 @@ authors:
   - family-names: "Noto"
     given-names: "JP"
 type: dataset
-version: 0.1.1
+version: 0.1.2
 date-released: "2026-09-06"
 license: CC-BY-NC-SA-4.0

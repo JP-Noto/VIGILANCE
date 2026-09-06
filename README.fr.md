@@ -4,9 +4,9 @@
 
 > Maxime fondatrice : « L'humain concentré là où il a de la valeur, le système vigilant partout. »
 
-`Statut : Public Draft · Corpus : 0.1.1 · Rang : hypothèse · Licence : CC BY-NC-SA 4.0`
+`Statut : Public Draft · Corpus : 0.1.2 · Rang : banc d'essai · Licence : CC BY-NC-SA 4.0`
 
-> **Rang de ce travail : hypothèse.** Un praticien, un processus instrumenté, une mesure (un devis,
+> **Étage de ce travail : banc d'essai** (gate 2 franchie le 2026-09-06, décision signée ; l'hypothèse reste la forme, et le drill reste à conduire). Un praticien, un processus instrumenté, une mesure (un devis,
 > contrôle inclus, passe de 65-90 minutes à 25). Rien de répliqué, rien de démontré. « Prouvé »
 > exigerait une série ; la série n'existe pas encore. Les résultats négatifs se publieront comme
 > les autres.

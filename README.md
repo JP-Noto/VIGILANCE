@@ -4,9 +4,9 @@
 
 > Founding maxim: "The human concentrated where they have value, the system vigilant everywhere."
 
-`Status: Public Draft · Corpus: 0.1.1 · Rank: hypothesis · License: CC BY-NC-SA 4.0`
+`Status: Public Draft · Corpus: 0.1.2 · Rank: test bench · License: CC BY-NC-SA 4.0`
 
-> **Rank of this work: hypothesis.** One practitioner, one instrumented process, one measurement
+> **Stage of this work: test bench** (gate 2 passed on 2026-09-06, signed decision; the hypothesis remains the form, and the drill remains to be run). One practitioner, one instrumented process, one measurement
 > (a quote, control included, goes from 65-90 minutes to 25). Nothing replicated, nothing
 > proven. "Proven" would require a series; no series exists yet. Negative results will be
 > published like the others.

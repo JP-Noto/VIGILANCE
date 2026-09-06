@@ -3,6 +3,11 @@
 Versionnage `x.y.z` : x = refonte de doctrine · y = mécanisme ajouté ou retiré · z = correction
 ou clarification.
 
+## [0.1.2] — 2026-09-06
+
+- **Passage d'étage : banc d'essai.** Gate 2 franchie par gate-décision signée (critères vérifiés pièce par pièce : protocole du drill publié avant toute mesure, échec énoncé, mécanique spécifiée au profil, abus nommés, attaquant jamais auteur). Le drill reste à conduire, et c'est l'étage qui l'organise. Badges mis à jour ;
+  aucune règle ne change.
+
 ## [0.1.1] — 2026-09-06
 
 - **Clarification, levée par la première question de lecture** : le corpus décrit-il une
