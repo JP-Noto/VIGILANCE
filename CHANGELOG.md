@@ -10,7 +10,10 @@ ou clarification.
   processus, jamais sur les personnes. Publiée d’abord sur la pièce publique la plus exposée
   (post de l’auteur, 2026-09-06), entrée au corpus par verdict du même jour ;
 - **le profil DEVIS déclare son modèle de menace** en trois champs (adversaire supposé,
-  parades effectives, hors périmètre) : la limite de sécurité lisible au point d’usage.
+  parades effectives, hors périmètre) : la limite de sécurité lisible au point d’usage ;
+- **sa mesure fondatrice gagne un second point de donnée réel** : un écart de fond du
+  document tiers (dimension minimale changée contre la liste de prix qui fait foi), remonté
+  en exception avant engagement, litige client évité sur un dossier à cinq chiffres.
   Aucune règle ne change.
 
 ## [0.1.2] — 2026-09-06

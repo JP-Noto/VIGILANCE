@@ -37,7 +37,13 @@ n'autorise pas.
 
 Un devis, contrôle inclus : de 65-90 minutes à 25 (un point de donnée, chez le praticien, le
 2026-09-04). Premier passage sur pièce réelle : quinze lignes, sept fournisseurs, neuf exceptions
-remontées, dont deux références fausses invisibles au prix. Rien de répliqué ; la série à venir
+remontées, dont deux références fausses invisibles au prix. Un second point de donnée, de fond, consigné le 2026-09-06 : sur un dossier à cinq
+chiffres, le bon de commande client portait une dimension conforme à la liste de prix qui
+fait foi ; le devis fournisseur s’était autorisé à changer la dimension minimale. L’écart,
+remonté en exception avant engagement, a fait exiger une pièce conforme à la liste de prix
+et a évité un litige client sur une seule référence.
+
+Rien de répliqué ; la série à venir
 est pré-déclarée au WHITEPAPER.
 
 ## Le modèle de menace du profil
