@@ -3,6 +3,16 @@
 Versionnage `x.y.z` : x = refonte de doctrine · y = mécanisme ajouté ou retiré · z = correction
 ou clarification.
 
+## [0.1.3] — 2026-09-06
+
+- **La frontière travail/personnes entre au périmètre**, aux mêmes ancrages que la phrase de
+  sécurité (README FR/EN, SPEC, WHITEPAPER) : la vigilance porte sur les productions et les
+  processus, jamais sur les personnes. Publiée d’abord sur la pièce publique la plus exposée
+  (post de l’auteur, 2026-09-06), entrée au corpus par verdict du même jour ;
+- **le profil DEVIS déclare son modèle de menace** en trois champs (adversaire supposé,
+  parades effectives, hors périmètre) : la limite de sécurité lisible au point d’usage.
+  Aucune règle ne change.
+
 ## [0.1.2] — 2026-09-06
 
 - **Passage d'étage : banc d'essai.** Gate 2 franchie par gate-décision signée (critères vérifiés pièce par pièce : protocole du drill publié avant toute mesure, échec énoncé, mécanique spécifiée au profil, abus nommés, attaquant jamais auteur). Le drill reste à conduire, et c'est l'étage qui l'organise. Badges mis à jour ;

@@ -78,7 +78,10 @@ bougera pas pour leur plaire.
 ordinaire : l'erreur, l'oubli, le glissement. Ce n'est pas un dispositif de sécurité. La
 sécurité suppose un adversaire actif, qui lit les règles pour les contourner ; ce corpus ne
 promet rien contre lui, et les champs qui traitent l'adversaire sont nommés au
-[WHITEPAPER](WHITEPAPER.md) (travaux voisins) et au [LINEAGE](LINEAGE.md).
+[WHITEPAPER](WHITEPAPER.md) (travaux voisins) et au [LINEAGE](LINEAGE.md). Et une seconde
+frontière, sœur de la première : **la vigilance porte sur les productions et les processus,
+jamais sur les personnes**. Le contrôle qualité des livrables n’est pas la surveillance de
+ceux qui les font : cet usage relève d’un autre régime, et ce corpus ne l’outille pas.
 
 ## D'où il vient
 

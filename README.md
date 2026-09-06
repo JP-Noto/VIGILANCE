@@ -75,7 +75,10 @@ to please them.
 drift: the error, the omission, the slide. It is not a security device. Security assumes an
 active adversary, one who reads the rules in order to defeat them; this corpus promises
 nothing against that adversary, and the fields that deal with it are named in the
-[WHITEPAPER](WHITEPAPER.md) (related work) and in [LINEAGE](LINEAGE.md).
+[WHITEPAPER](WHITEPAPER.md) (related work) and in [LINEAGE](LINEAGE.md). And a second
+boundary, sister to the first: **vigilance applies to what is produced and how — never to
+people**. Quality control of deliverables is not surveillance of those who make them: that
+use belongs to another regime, and this corpus does not equip it.
 
 ## Where it comes from
 

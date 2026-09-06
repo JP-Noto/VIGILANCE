@@ -206,7 +206,11 @@ l'assemblage sous un même verdict humain, jamais les organes pris un à un. Une
 VIGILANCE économise l'attention face à la dérive ordinaire, pas face à un adversaire actif.
 La sécurité suppose un attaquant qui lit les règles pour les contourner ; une doctrine de
 l'attention ne promet rien contre lui, et un déploiement qui affronte cet adversaire
-relève des champs cités ici, pas de ce corpus.
+relève des champs cités ici, pas de ce corpus. La même ligne a une seconde face, publiée
+avec elle : la vigilance porte sur les productions et les processus, jamais sur les
+personnes. Contrôler la qualité d’un livrable n’est pas surveiller la personne qui le
+produit ; un déploiement qui retournerait l’instrument vers les personnes sortirait du
+périmètre de cette doctrine, et répondrait d’un autre droit.
 
 ## La place dans la famille
 

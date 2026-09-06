@@ -40,6 +40,22 @@ Un devis, contrôle inclus : de 65-90 minutes à 25 (un point de donnée, chez l
 remontées, dont deux références fausses invisibles au prix. Rien de répliqué ; la série à venir
 est pré-déclarée au WHITEPAPER.
 
+## Le modèle de menace du profil
+
+Trois champs, déclarés pour que la limite de sécurité se lise au point d’usage.
+
+**Adversaire supposé** : le document de tiers lui-même (un devis reçu peut porter des
+instructions ou des données forgées que l’agent lit : injection indirecte) ; et l’erreur non
+malveillante du fournisseur, qui reste le cas dominant.
+
+**Parades effectives** : le référentiel V1 versionné avec le profil ; le verdict humain V3.4
+(le contrôle constate et alerte, il n’autorise jamais) ; les classes de diffusion V7.4 ; la
+lecture seule du flux de contrôle.
+
+**Hors périmètre** : l’adversaire actif persistant ; la collusion de l’humain de contrôle ;
+l’authentification de la pièce source (la provenance est tracée, la pièce n’est pas
+authentifiée) ; le déni de service. Les deux phrases de périmètre du corpus s’appliquent.
+
 ## Ce que ce profil ne dit pas
 
 Les valeurs du coefficient et des bandes appartiennent au déploiement, pas au corpus. Ce profil
