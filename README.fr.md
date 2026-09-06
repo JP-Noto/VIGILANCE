@@ -4,7 +4,7 @@
 
 > Maxime fondatrice : « L'humain concentré là où il a de la valeur, le système vigilant partout. »
 
-`Statut : Public Draft · Corpus : 0.1 · Rang : hypothèse · Licence : CC BY-NC-SA 4.0`
+`Statut : Public Draft · Corpus : 0.1.1 · Rang : hypothèse · Licence : CC BY-NC-SA 4.0`
 
 > **Rang de ce travail : hypothèse.** Un praticien, un processus instrumenté, une mesure (un devis,
 > contrôle inclus, passe de 65-90 minutes à 25). Rien de répliqué, rien de démontré. « Prouvé »
@@ -34,6 +34,31 @@ sort, avec l'autorité de trancher. Trois ingrédients, tous nécessaires :
 La couverture est totale et l'attention humaine est réelle : la combinaison que ni la relecture
 exhaustive ni l'échantillon n'offrent.
 
+## Une surveillance permanente ? Non : deux régimes
+
+La question vient tôt, et elle est légitime : si le système vérifie tout, est-ce une
+surveillance permanente ? Non. Le contrôle a deux régimes, chacun sur son objet, et rien ne
+tourne entre les deux.
+
+**Le flux, d'abord** : tout ce que le système produit ou laisse entrer, unité par unité.
+Un devis fournisseur qui arrive et se contrôle ligne à ligne, une écriture dans le
+référentiel des prix, une fiche mise à jour, un document qui part vers un tiers : chaque
+unité de ce flux est un « passage ».
+
+- **Au passage** : à chaque unité produite. Cent pour cent du flux, à chaque passage (V2),
+  sur un chemin d'écriture unique où des gardes déterministes tranchent dans un budget de
+  latence (V6). Déclenché par l'acte, jamais entre deux actes : tant que rien ne se
+  produit, rien ne tourne.
+- **À la ronde** : périodiquement, sur l'état global. La revue asynchrone par jugement
+  agentique constate ce qu'aucun passage ne peut voir : le lien qui pourrit, le fichier
+  modifié hors du chemin, l'invariant global qui s'est défait.
+
+Un contrôle permanent n'ajouterait aucune garantie : entre deux actes, rien ne change par
+le chemin ; ce qui change hors du chemin est précisément une anomalie que la ronde
+constate. Il ajouterait du coût et du bruit, ce que l'économie de l'attention refuse. La
+limite se déclare : entre deux rondes, une modification hors chemin reste invisible ;
+c'est pourquoi le chemin unique est une règle (V6.1), être hors du chemin est une anomalie
+en soi.
 ## Ce que le corpus mesure
 
 - **Le taux d'exceptions.** Trop haut : règles trop strictes, ou processus malade. Zéro : règles

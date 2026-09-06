@@ -59,7 +59,8 @@ Dès lors, l'échantillon n'est plus une économie, c'est un trou : chaque unit�
 anomalie possible en circulation. La vérification totale a deux disciplines : le système ne corrige
 jamais en silence, ce qui sort d'une règle remonte ; et une unité invérifiable est une exception,
 pas un passage réussi. Un contrôle qui rectifie tacitement fabrique un flux propre en apparence et
-un référentiel qui ment.
+un référentiel qui ment. Et vérifier tout ne veut pas dire surveiller en permanence :
+le contrôle a deux régimes, le passage et la ronde, dits au plan de l'architecture.
 
 ## Pourquoi l'humain sur les seules exceptions
 
@@ -142,6 +143,14 @@ sortie ; toute exception, d'où qu'elle vienne, remonte au même verdict humain,
 bouge pas. La ronde (V6.2) veille en asynchrone sans jamais bloquer ; le drill, le banc
 adversarial des postes, vit dans research/. Rangs dits tels quels : V6 a son premier terrain,
 V7.4 le sien, V7.1 à V7.3 sont spécifiées, non éprouvées.*
+Ce plan peut faire croire à une surveillance permanente ; le refus est doctrinal. Le
+contrôle vit en deux régimes : le passage (V2, V6 : à chaque unité du flux, déterministe,
+borné en latence) et la ronde (périodique, asynchrone, par jugement). Un contrôle permanent
+n'ajouterait aucune garantie, puisque rien ne change par le chemin entre deux actes et que
+le hors-chemin est une anomalie en soi (V6.1) ; il ajouterait du coût et du bruit, ce que
+l'économie de l'attention refuse. La limite se déclare plutôt qu'elle ne se cache : entre
+deux rondes, une modification hors chemin reste invisible, et c'est la ronde suivante qui
+la constate.
 
 ## Le cas fondateur
 

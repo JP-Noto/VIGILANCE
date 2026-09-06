@@ -4,7 +4,7 @@
 
 > Founding maxim: "The human concentrated where they have value, the system vigilant everywhere."
 
-`Status: Public Draft · Corpus: 0.1 · Rank: hypothesis · License: CC BY-NC-SA 4.0`
+`Status: Public Draft · Corpus: 0.1.1 · Rank: hypothesis · License: CC BY-NC-SA 4.0`
 
 > **Rank of this work: hypothesis.** One practitioner, one instrumented process, one measurement
 > (a quote, control included, goes from 65-90 minutes to 25). Nothing replicated, nothing
@@ -34,6 +34,29 @@ outside, with the authority to decide. Three ingredients, all necessary:
 Coverage is total and human attention is real: the combination that neither exhaustive review
 nor sampling offers.
 
+## Permanent surveillance? No: two regimes
+
+The question comes early, and it is legitimate: if the system verifies everything, is this
+permanent surveillance? No. Control has two regimes, each on its own object, and nothing
+runs between the two.
+
+**The flow, first**: everything the system produces or lets in, unit by unit. A supplier
+quote arriving and checked line by line, a write into the price reference, an updated
+record, a document leaving toward a third party: each unit of this flow is a « passage ».
+
+- **At the passage**: at every unit produced. One hundred percent of the flow, at every
+  passage (V2), on a single write path where deterministic guards decide within a latency
+  budget (V6). Triggered by the act, never between two acts: as long as nothing is
+  produced, nothing runs.
+- **On the patrol** (la ronde): periodically, on the global state. The asynchronous review
+  by agentic judgment observes what no passage can see: the link that rots, the file
+  changed off the path, the global invariant that came undone.
+
+A permanent control would add no guarantee: between two acts, nothing changes through the
+path; what changes off the path is precisely an anomaly the patrol observes. It would add
+cost and noise, which the economy of attention refuses. The limit is declared: between two
+patrols, an off-path change stays invisible; that is why the single path is a rule (V6.1),
+being off the path is an anomaly in itself.
 ## What the corpus measures
 
 - **The exception rate.** Too high: rules too strict, or a sick process. Zero: rules too loose,

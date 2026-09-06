@@ -3,6 +3,14 @@
 Versionnage `x.y.z` : x = refonte de doctrine · y = mécanisme ajouté ou retiré · z = correction
 ou clarification.
 
+## [0.1.1] — 2026-09-06
+
+- **Clarification, levée par la première question de lecture** : le corpus décrit-il une
+  surveillance permanente ? Non. Les deux régimes du contrôle (au passage, à la ronde) se
+  disent désormais dès le README, le flux y est défini par l'exemple, le refus du contrôle
+  permanent est argumenté au WHITEPAPER, et la limite entre deux rondes est déclarée.
+  Aucune règle ne change.
+
 ## [0.1] — 2026-09-05
 
 Première version du dépôt canonique. Le corpus, au rang qu'il déclare :
