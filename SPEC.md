@@ -153,7 +153,8 @@ V7.4 a son premier terrain ; V7.1 à V7.3 sont spécifiées, non éprouvées.
 - **La frontière travail/personnes.** La vigilance porte sur les productions et les
   processus, jamais sur les personnes : le contrôle qualité des livrables n’est pas la
   surveillance de ceux qui les font, qui relève d’un autre régime (droit du travail,
-  protection des données) et que cette SPEC n’outille ni n’autorise.
+  protection des données) et que cette SPEC n’outille ni n’autorise, sans préjuger des
+  droits qui s’appliquent par ailleurs à tout déploiement.
 - **La frontière avec MYSTANCE.** Quand l'humain tamponne, le versant relation relève de
   MYSTANCE (la souveraineté, M2 ; l'angle mort du coupable commode de son whitepaper) ;
   VIGILANCE dit comment le flux le rend visible (un taux, V5.2). Deux faces du même phénomène, deux corpus, aucun ne redéfinit l'autre. Le mot « médiation » s'emploie dans cette SPEC comme nom

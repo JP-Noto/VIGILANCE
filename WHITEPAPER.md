@@ -210,7 +210,7 @@ relève des champs cités ici, pas de ce corpus. La même ligne a une seconde fa
 avec elle : la vigilance porte sur les productions et les processus, jamais sur les
 personnes. Contrôler la qualité d’un livrable n’est pas surveiller la personne qui le
 produit ; un déploiement qui retournerait l’instrument vers les personnes sortirait du
-périmètre de cette doctrine, et répondrait d’un autre droit.
+périmètre de ce corpus, et relèverait d’un autre droit.
 
 ## La place dans la famille
 

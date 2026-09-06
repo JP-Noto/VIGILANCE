@@ -81,7 +81,9 @@ promet rien contre lui, et les champs qui traitent l'adversaire sont nommés au
 [WHITEPAPER](WHITEPAPER.md) (travaux voisins) et au [LINEAGE](LINEAGE.md). Et une seconde
 frontière, sœur de la première : **la vigilance porte sur les productions et les processus,
 jamais sur les personnes**. Le contrôle qualité des livrables n’est pas la surveillance de
-ceux qui les font : cet usage relève d’un autre régime, et ce corpus ne l’outille pas.
+ceux qui les font : cet usage relève d’un autre régime, et ce corpus ne l’outille pas. Les mesures de santé
+du corpus lisent des règles et des processus, jamais des personnes
+([Mesures de santé](fiches/MESURES-DE-SANTE.md)).
 
 ## D'où il vient
 
